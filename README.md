@@ -52,4 +52,4 @@ An interactive, physics-based snooker game built with [p5.js](https://p5js.org/)
 
 ## 📸 Demo
 
-Coming soon – see the game in action!
+Play the game: https://13nz.github.io/snooker/
