@@ -2,6 +2,9 @@
 
 An interactive, physics-based snooker game built with [p5.js](https://p5js.org/) and [Matter.js](https://brm.io/matter-js/). Play through three different game modes, experience realistic ball collisions, strategic cue control, and enjoy creative bonus features like time rewind and target zone challenges.
 
+<img width="1426" height="727" alt="image" src="https://github.com/user-attachments/assets/f72bd26c-212e-461f-9689-f42caa0c61d1" />
+
+
 ## 🕹️ Features
 
 - **Three Game Modes** – Switch between gameplay setups using the `1`, `2`, and `3` keys.
